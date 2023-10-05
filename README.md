@@ -1,4 +1,4 @@
-# Intelligent-Water-System-Competition
+# Intelligent-Water-System-Competition 2022
 ### First Place:fire:
 Realtime Management of Wastewater Treatment Plants Using AI
 This work introduces the Real-time AI-Driven Decision Support System (RADS). RADS is a real-time
@@ -10,6 +10,8 @@ multiple tasks including but not limited to, data security, reservoir water leve
 reservoirs, and 27% saving on effluent release processes during extreme weather conditions. Our
 simulations also showed RADS was able to predict every single overflow incident from 2018 to 2022 at
 Blue Plains Advanced Wastewater Treatment Plant (DC Water).
+
+:point_right: Check the [competition](https://www.waterrf.org/intelligent-water-systems-challenge)
 
 
 :point_right: Check the [solution](https://www.waterrf.org/sites/default/files/file/2022-11/2022_IWS-Challenge-Solution_Virginia-Tech.pdf)
