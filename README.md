@@ -1,5 +1,5 @@
 # Intelligent-Water-System-Competition
-# First Place:fire:
+### First Place:fire:
 Realtime Management of Wastewater Treatment Plants Using AI
 This work introduces the Real-time AI-Driven Decision Support System (RADS). RADS is a real-time
 cybersecurity, prediction, and optimization framework for Wastewater Treatment Plants (WWTP). RADS
